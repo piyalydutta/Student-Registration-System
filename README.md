@@ -16,6 +16,7 @@ A simple console-based Student Registration System written in Java using Object-
 
  
 `Student`           Stores student info and registered courses 
-`Account`            Handles student login credentials           `Course`             Represents a course (code, name, credits)  
+`Account`            Handles student login credentials           
+`Course`             Represents a course (code, name, credits)  
 `RegistrationManager`  Manages the list of available courses     
 `Main`              Entry point with menu and user input
